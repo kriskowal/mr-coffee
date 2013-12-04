@@ -1,0 +1,13 @@
+{
+  "name": "mr-coffee",
+  "version": "0.0.0",
+  "dependencies": {
+    "coffee-script": "~1.6.3"
+  },
+  "translators": {
+    "coffee": "mr-coffee"
+  },
+  "devDependencies": {
+    "mr": "git://github.com/kriskowal/mr.git#configurability"
+  }
+}
