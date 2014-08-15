@@ -8,6 +8,26 @@
     "coffee": "mr-coffee"
   },
   "devDependencies": {
-    "mr": "git://github.com/kriskowal/mr.git#configurability"
-  }
+    "mr": "^2.0.4"
+  },
+  "description": "CoffeeScript to JavaScript translator for Montage Require",
+  "main": "mr-coffee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kriskowal/mr-coffee.git"
+  },
+  "keywords": [
+    "coffeescript",
+    "mr",
+    "commonjs"
+  ],
+  "author": "Kris Kowal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kriskowal/mr-coffee/issues"
+  },
+  "homepage": "https://github.com/kriskowal/mr-coffee"
 }
